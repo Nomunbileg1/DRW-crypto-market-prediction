@@ -80,8 +80,7 @@ The Ridge submission had the **lowest public score but the highest private score
 .
 ├── DRW_competition.ipynb     # Full pipeline: EDA → feature engineering → modeling → submissions
 ├── README.md
-├── environment.yml           # Reproducible conda environment
-└── .gitignore                # Excludes the competition data (see below)
+└── environment.yml           # Reproducible conda environment
 ```
 
 ## Reproducing
