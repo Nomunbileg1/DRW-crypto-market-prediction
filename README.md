@@ -2,7 +2,7 @@
 
 Predicting short-term cryptocurrency price movements from proprietary trading features and public market data, for the [DRW - Crypto Market Prediction](https://www.kaggle.com/competitions/drw-crypto-market-prediction) Kaggle competition hosted by DRW Trading (Cumberland).
 
-**Result: Top 100 of ~1,000 teams** on the private leaderboard.
+**Result: Submission scored in the top-100 level (of ~1,000 teams). **
 
 ---
 
